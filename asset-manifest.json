@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slatle/static/css/main.6e125796.css",
+    "main.js": "/slatle/static/js/main.5a5b0c3b.js",
+    "static/media/settings.png": "/slatle/static/media/settings.4d247f99a57455b0bc15.png",
+    "static/media/help.png": "/slatle/static/media/help.541842e65bcf02420557.png",
+    "index.html": "/slatle/index.html",
+    "main.6e125796.css.map": "/slatle/static/css/main.6e125796.css.map",
+    "main.5a5b0c3b.js.map": "/slatle/static/js/main.5a5b0c3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e125796.css",
+    "static/js/main.5a5b0c3b.js"
+  ]
+}
